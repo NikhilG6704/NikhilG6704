@@ -37,3 +37,5 @@ Beyond tech, I’m a State-Level Roll Ball Player, bringing discipline, teamwork
 <br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/NikhilG6704/GENAI" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NikhilG6704&repo=GENAI&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/NikhilG6704/foodies" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NikhilG6704&repo=foodies&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/dizoMania?theme=dark&font=Abel&ext=heatmap)
