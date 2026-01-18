@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Nikhil Gupta
 =====================================================================================================================================
 
-Competitive Programmer and Software Developer
+Software Developer and Competitive Programmer
 ---------------------------------------------
 
 I build scalable, responsive web applications and enjoy solving challenging algorithmic problems. Skilled in both front-end and back-end development, I focus on creating clean, efficient, and user-friendly solutions.
