@@ -16,7 +16,7 @@ Skilled in both front-end and back-end development, I focus on creating clean, e
 - 🌍 Based in **Chennai, India**
 - 🖥️ Portfolio: [My Portfolio](http://nikhil-gupta-portfolio-vibe.vercel.app/)
 - 🚀 Currently working on: [Pictopy](http://aossie-org.github.io/PictoPy/)
-- 🧠 Currently learning: **Etherium, Solidity**
+- 🧠 Currently learning: **Ethereum, Solidity**
 
 ---
 
