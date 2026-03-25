@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Nikhil Gupta  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F6F72E&width=435&lines=Competitive+Programme...;Full-Stack+Developer+%F0%9F%A4%96;Football+Fan+%E2%9A%BD;Rollball+Player+%F0%9F%8F%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F6F72E&width=435&lines=Competitive+Programmer...;Full-Stack+Developer+%F0%9F%A4%96;Football+Fan+%E2%9A%BD;Rollball+Player+%F0%9F%8F%80)](https://git.io/typing-svg)
 
 I build scalable, responsive web applications and enjoy solving challenging algorithmic problems.  
 Skilled in both front-end and back-end development, I focus on creating clean, efficient, and user-friendly solutions.
